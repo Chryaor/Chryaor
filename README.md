@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chryaor
 - 👀 I’m interested in changing the world!Programming!Researching!Music!
-- 🌱 I’m currently learning ReactJs/ NodeJs / Python:Advanced / JavaScript
+- 🌱 I’m currently learning ReactJs / Front-End Dev / Python:Advanced / JavaScript
 - 💞️ I’m looking to collaborate on Software development/ AI / Full Stack Development
 - 📫 How to reach me - mail:christyjose.in@gmail.com/ learn.christyjose.in@gmail.com
 <!---
